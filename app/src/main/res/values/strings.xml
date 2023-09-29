@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ur Psychological Size</string>
+    <string-array name="array"> //test thing
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+    </string-array>
+
+</resources>
